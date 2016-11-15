@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_us"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/easter_eggs"
+    tools:context="com.example.admin.gic.aboutUs"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="32sp"
+        android:textColor="#1976D2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text=" xfb eafiunbeiuv ndflunvdf
+         nvufshvnuefhvetbneiui nbfdznlusbieknblwiuestkzdhfnglnbuite rg
+          avnuirnvlba uie baeriug hwlrai gjileur
+          r gu35nlaer gierjjg5
+          wer tniuerg lui5jgjaewrlit ileru
+          e rgyhjerilgj eoig
+          er gtjuiergj eri
+          er jgiuew"
+        android:textSize="20sp"
+        android:textColor="#42A5F5"/>
+
+</LinearLayout>
